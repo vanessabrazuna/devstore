@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="DevStore" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/289309388-9d247974-38a1-4e1b-a5ef-5bcdc99ecbf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231209T194452Z&X-Amz-Expires=300&X-Amz-Signature=e536e888aed6b179ffb41bb35b4cdc8d16b79a8379c67ba91c5642adeae04d86&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
+  <img alt="DevStore" src="https://gist.github.com/assets/73675022/bdc6d8b9-44d4-40c3-b639-59cb4f1df68b" width="100%">
 </p>
 
 
