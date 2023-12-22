@@ -30,6 +30,7 @@ The project was developed using the following technologies
 - [Lucide React](https://lucide.dev/)
 - [Zod](https://zod.dev/)
 - [Cypress](https://www.cypress.io/)
+- [T3-env](https://env.t3.gg/)
 
 ---
 
