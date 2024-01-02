@@ -2,7 +2,8 @@
 <br>
 
 <p align="center">
-  <img alt="DevStore" src="https://gist.github.com/assets/73675022/be480aa9-0c50-4d1e-8db2-0eb41e26e04d.png" width="100%">
+  <img width="1920" alt="Cover" src="https://gist.github.com/assets/73675022/be480aa9-0c50-4d1e-8db2-0eb41e26e04d">
+<!--   <img alt="DevStore" src="https://gist.github.com/assets/73675022/be480aa9-0c50-4d1e-8db2-0eb41e26e04d.png" width="100%"> -->
 </p>
 
 
