@@ -2,8 +2,7 @@
 <br>
 
 <p align="center">
-  <img width="1920" alt="Cover" src="https://gist.github.com/assets/73675022/be480aa9-0c50-4d1e-8db2-0eb41e26e04d">
-<!--   <img alt="DevStore" src="https://gist.github.com/assets/73675022/be480aa9-0c50-4d1e-8db2-0eb41e26e04d.png" width="100%"> -->
+  <img alt="DevStore" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/293797755-be480aa9-0c50-4d1e-8db2-0eb41e26e04d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240102T220625Z&X-Amz-Expires=300&X-Amz-Signature=aa748dbf0d9702f5f3dfdaacfa6b28aed0a84cffde324b85eca9fa28dbc7a073&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
 </p>
 
 
