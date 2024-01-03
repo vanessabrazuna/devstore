@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img width="1920" alt="DevStore" src="https://gist.github.com/assets/73675022/e66733ed-3ef9-46ca-aec9-8b22eb3f980d">
+  <img width="1920" alt="DevStore" src="https://gist.github.com/assets/73675022/e66733ed-3ef9-46ca-aec9-8b22eb3f980d.png">
 </p>
 
 
